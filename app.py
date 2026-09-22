@@ -18,7 +18,8 @@ st.set_page_config(
 
 # Load dataset
 
-file_path = r"C:\Users\jayra\OneDrive\Desktop\SIH_2026_Problem_Analysis\SIH_2026_Problem_Statements.xlsx"
+file_path = "SIH_2026_Problem_Statements.xlsx"
+
 
 df = pd.read_excel(file_path)
 
